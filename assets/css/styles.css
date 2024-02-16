@@ -118,6 +118,7 @@ p {
 }
 
 #language-selector button img {
-  width: 30px;
+  width: 5vh;
+  max-width: 30px;
   height: auto;
 }
