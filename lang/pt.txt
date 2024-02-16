@@ -1,0 +1,60 @@
+title=>.:| CV - William Eckerleben |:.
+sobre-mi=><i class="fa fa-user"></i> Sobre Mim
+educacion=><i class="fa fa-graduation-cap"></i> Educação
+experiencia-laboral=><i class="fa fa-briefcase"></i> Experiência Profissional
+sobre=>Sobre Mim
+educa=>Educação
+experiencia-laboral2=>Experiência <span>Profissional</span>
+portfolio=><i class="fa fa-archive"></i> Portfolio
+blog=><i class="fa fa-globe"></i> Blog
+contacto=><i class="fa fa-paper-plane-o"></i> Contato
+name-title=>Meu nome é William Eckerleben
+1.1=>Sou freelancer...
+1.2=>...e sou bom em...
+1.3=>Produção Musical y Audiovisual
+1.4=>E também tento ser músico haha
+extracto=>Considero-me uma pessoa séria, responsável, proativa, dinâmica, criativa e acima de tudo empreendedora, com um grande desejo de trabalhar e aprender, com facilidade de adaptação e capacidade de trabalhar em equipe, em condições de alta pressão, com iniciativas para resolver problemas de forma eficiente e alcançar as metas e objetivos estabelecidos.
+skills=>Mais Habilidades
+office=>Pacote MS Office
+adobe=>Pacote Adobe
+lenguajes=>Linguagens de programação
+ver=><a href="docs/cv-we_v2.0_PT.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-eye"></i> Ver Currículo</a> <a href="docs/cv-we_v2.0_PT.pdf" download="CV-WilliamEckerleben.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> Baixar Currículo</a>
+idiomas=>Idiomas
+es=>Espanhol (Natal)
+pt=>Português (Natal)
+en=>Inglês
+zh=>Chinês
+gn=>Guarani
+educa-p=>Sou da turma de 2018 do CEPB, o colégio onde estive toda a minha vida. Neste momento, estou no segundo ano da carreira de Engenharia Informática na UPTP.
+edu3-prom=>Média : 3
+edu3-p=>Fundador do Clube Acadêmico UPTP.<br/>Organizador da <a href="https://www.ultimahora.com/olimpiada-fisica-fomenta-las-ciencias-n2851423.html" target="_blank">I Edição das Olimpíadas de Física do Clube Acadêmico UPTP 2019</a>.
+edu3-time=>2019 - Hoje<h4 class="system_font_color">Graduação <br/>em Engenharia Informática</h4>
+edu2-prom=>Média : 4
+edu2-p=>No meu paso pelo EM continuei participando de olimpíadas de matemáticas e também de programação e de física.<br/>No 2017 participei do <a href="http://www.fundacionparaguaya.org.py/upload/documentos_contenidos/1357308225.pdf" target="_blank">Programa Miniempresa</a> alcançando o primeiro lugar com o empreendimento <a href="https://www.youtube.com/watch?v=l7kLrLzU-u4&ab_channel=Fundaci%C3%B3nParaguaya" target="_blank">AGK</a>.<br/>No meu último ano de colégio alcancei o título de <a href="https://cienciasdelsur.com/2018/10/08/asuncion-ciudaddeleste-ganan-olimpiada-de-informatica/#:~:text=William%20Eckerleben" target="_blank">Campeão das Olimpíadas de Programação Aguarandú 2018</a>, realizadas pela <a href="https://www.omapa.org" target="_blank">OMAPA</a>.
+edu2-time=>2016 - 2018<h4 class="system_font_color">Ensino Médio<br/>Técnico <br/>em Informática</h4>
+edu1-prom=>Média : 4
+edu1-p=>Durante o meu EF, participei de várias olimpíadas matemáticas, incluindo <a href="https://kanguro.omapa.org/" target="_blank">Kanguro</a> e <a href="https://www.omapa.org/proyectos/olimpiadas-nacionales-de-matematica/" target="_blank">OMAPA</a>.<br/>Em 2015 ganhei o título de <a href="docs/2015_omapa_campeon-departamental.pdf" target="_blank">Campeão Departamental na Olimpíada Nacional de Matemáticas</a>, o que me levou a me classificar para a final nacional naquele ano, onde ganhei a <a href="docs/2015_omapa_medalla-plata.pdf" target="_blank">Medalha de Prata</a>.
+edu1-time=>2007 - 2015<h4 class="system_font_color">Ensino<br/>Fundamental</h4>
+contactame=>Contate-<span>me</span>
+conta-p=>Gostaria demais poder te ajudar com o que precisar, então não duvide em entrar em contato comigo, ficarei encantado.
+c-nom=><input type="text" placeholder="Teu nome" class="form-control" name="fname">
+c-email=><input type="text" placeholder="E-mail" class="form-control" name="email">
+c-asunto=><input type="text" placeholder="Assunto" class="form-control" name="subject">
+c-mensaje=><textarea placeholder="A sua mensagem" cols="20" rows="6" class="form-control"></textarea>
+c-enviar=><div data-lang="c-enviar"><input type="submit" value="Enviar" name="submit" class="btn btn-primary">
+exp-p=>No ambiente de trabalho, eu me destaco como profissional na área de informática e também estou iniciando um empreendimento de produção musical.
+exp5-emp=>WE Records
+exp5-p=>Produção de materiais musicais e audiovisuais.
+exp5-time=>Mar 2019 - Hoje<h4>CEO</h4>
+exp4-emp=>Asundatta SRL
+exp4-p=>Reparação e manutenção de notebooks e computadores, software e hardware.
+exp4-time=>Nov 2018 - Hoje<h4>Soporte TI</h4>
+exp3-emp=>Independente
+exp3-p=>Reparação e manutenção de notebooks e computadores, software e hardware.
+exp3-time=>Mar 2018 - Hoje<h4>Soporte TI</h4>
+exp2-emp=>Telecel SA
+exp2-p=>Estagiário na área de suporte técnico, reparo e manutenção de equipamentos e sistemas de informática da empresa.
+exp2-time=>Jan 2018 - Fev 2018<h4>Soporte TI</h4>
+exp1-emp=>Centro de Inovação Educacional do Mercosul
+exp1-p=>Responsável pela área de TI da empresa e administrador da rede.
+exp1-time=>Jun 2017 - Sep 2017<h4>Soporte TI</h4>
