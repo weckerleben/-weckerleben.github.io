@@ -4,9 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>En Construcción</title>
+    <title data-key="title">Under Construction</title>
     <link rel="icon" type="image/png" href="assets/images/logo_v1(negro).png">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script type="text/javascript" src="assets/js/script.js"></script>
 </head>
 
@@ -15,21 +17,44 @@
         <h1 data-key="headerText">I am working on it...</h1>
         <p data-key="welcomeText">Hello! I am working hard to launch our new website. It will be available soon. Thank
             you for your patience.</p>
-        <p data-key="name" class="notice">William Eckerleben</p>
+
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/weckerleben/" target="_blank" rel="noopener noreferrer"
+                class="social-icon">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="https://github.com/weckerleben/" target="_blank" rel="noopener noreferrer" class="social-icon">
+                <i class="fab fa-github"></i>
+            </a>
+            <a href="https://www.facebook.com/weckerleben/" target="_blank" rel="noopener noreferrer"
+                class="social-icon">
+                <i class="fab fa-facebook"></i>
+            </a>
+            <a href="https://www.instagram.com/weckerleben/" target="_blank" rel="noopener noreferrer"
+                class="social-icon">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </div>
+
+        <p data-key="name" class="notice">2024 &copy; William Eckerleben</p>
 
         <div id="language-selector">
             <button onclick="changeLanguage('en')">
-                <img src="assets/images/us-flag.png" alt="English" title="English" />
+                <img src="assets/images/us-flag.png" alt="English" title="English" draggable="false" />
             </button>
             <button onclick="changeLanguage('es')">
-                <img src="assets/images/py-flag.png" alt="Español" title="Español" />
+                <img src="assets/images/py-flag.png" alt="Español" title="Español" draggable="false" />
             </button>
             <button onclick="changeLanguage('pt')">
-                <img src="assets/images/br-flag.png" alt="Português" title="Português" />
+                <img src="assets/images/br-flag.png" alt="Português" title="Português" draggable="false" />
             </button>
             <button onclick="changeLanguage('zh')">
-                <img src="assets/images/tw-flag.png" alt="中文" title="中文" />
+                <img src="assets/images/tw-flag.png" alt="中文" title="中文" draggable="false" />
             </button>
+        </div>
+
+        <div class="footer-logo">
+            <img id="logo" src="assets/images/logo_v1(blanco).png" draggable="false" alt="William Eckerleben">
         </div>
     </div>
 
