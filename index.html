@@ -1,53 +1,31 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>En Construcción</title>
-<link rel="icon" type="image/png" href="logo_v1(negro).png">
-<style>
-  body, html {
-    height: 100%;
-    margin: 0;
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #f0f0f0;
-    color: #333;
-  }
-
-  .container {
-    text-align: center;
-    padding: 20px;
-    max-width: 800px;
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
-
-  h1 {
-    color: #333;
-  }
-
-  p {
-    font-size: 18px;
-    line-height: 1.6;
-  }
-
-  .notice {
-    margin-top: 20px;
-    color: #888;
-  }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>En Construcción</title>
+    <link rel="icon" type="image/png" href="assets/images/logo_v1(negro).png">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script type="text/javascript" src="assets/js/script.js"></script>
 </head>
+
 <body>
 
-<div class="container">
-  <h1>Estoy trabajando en ello...</h1>
-  <p>¡Hola! Estoy trabajando arduamente para lanzar mi nuevo sitio web. Estará disponible pronto. Gracias por tu paciencia.</p>
-  <p class="notice">William Eckerleben</p>
-</div>
+    <div class="container">
+        <h1>Estoy trabajando en ello...</h1>
+        <p>¡Hola! Estoy trabajando arduamente para lanzar mi nuevo sitio web. Estará disponible pronto. Gracias por tu
+            paciencia.</p>
+        <p class="notice">William Eckerleben</p>
+    </div>
+
+    <div class="theme-switcher">
+        <input type="checkbox" id="theme-toggle" onchange="toggleTheme()">
+        <label for="theme-toggle" class="toggle-label"></label>
+    </div>
+
+    <script>document.body.setAttribute("data-theme", "dark");</script>
 
 </body>
+
 </html>
