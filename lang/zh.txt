@@ -18,7 +18,7 @@ skills=>更多技能
 office=>MS Office Suite
 adobe=>Adobe Suite
 lenguajes=>編程語言
-ver=><a href="docs/cv-we_v2.0_EN.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-eye"></i> 見簡歷</a> <a href="docs/cv-we_v2.0_EN.pdf" download="CV-WilliamEckerleben.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> 下載簡歷</a>
+ver=><a href="docs/cv-we_EN_v24.01.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-eye"></i> 見簡歷</a> <a href="docs/cv-we_EN_v24.01.pdf" download="CV-WilliamEckerleben.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> 下載簡歷</a>
 idiomas=>語言
 es=>西班牙語（母語）
 pt=>葡萄牙語（母語）

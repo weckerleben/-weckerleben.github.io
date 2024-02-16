@@ -18,7 +18,7 @@ skills=>More Skills
 office=>MS Office Suite
 adobe=>Adobe Suite
 lenguajes=>Programming Languages
-ver=><a href="docs/cv-we_v2.0_EN.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-eye"></i> See Resume</a> <a href="docs/cv-we_v2.0_EN.pdf" download="CV-WilliamEckerleben.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> Download Resume</a>
+ver=><a href="docs/cv-we_EN_v24.01.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-eye"></i> See Resume</a> <a href="docs/cv-we_EN_v24.01.pdf" download="CV-WilliamEckerleben.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> Download Resume</a>
 idiomas=>Languages
 es=>Spanish (Native)
 pt=>Portuguese (Native)

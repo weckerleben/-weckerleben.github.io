@@ -18,7 +18,7 @@ skills=>Mais Habilidades
 office=>Pacote MS Office
 adobe=>Pacote Adobe
 lenguajes=>Linguagens de programação
-ver=><a href="docs/cv-we_v2.0_PT.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-eye"></i> Ver Currículo</a> <a href="docs/cv-we_v2.0_PT.pdf" download="CV-WilliamEckerleben.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> Baixar Currículo</a>
+ver=><a href="docs/cv-we_EN_v24.01.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-eye"></i> Ver Currículo</a> <a href="docs/cv-we_EN_v24.01.pdf" download="CV-WilliamEckerleben.pdf" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> Baixar Currículo</a>
 idiomas=>Idiomas
 es=>Espanhol (Natal)
 pt=>Português (Natal)
