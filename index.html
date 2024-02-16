@@ -11,12 +11,26 @@
 </head>
 
 <body>
-
     <div class="container">
-        <h1>Estoy trabajando en ello...</h1>
-        <p>¡Hola! Estoy trabajando arduamente para lanzar mi nuevo sitio web. Estará disponible pronto. Gracias por tu
-            paciencia.</p>
-        <p class="notice">William Eckerleben</p>
+        <h1 data-key="headerText">I am working on it...</h1>
+        <p data-key="welcomeText">Hello! I am working hard to launch our new website. It will be available soon. Thank
+            you for your patience.</p>
+        <p data-key="name" class="notice">William Eckerleben</p>
+
+        <div id="language-selector">
+            <button onclick="changeLanguage('en')">
+                <img src="assets/images/us-flag.png" alt="English" title="English" />
+            </button>
+            <button onclick="changeLanguage('es')">
+                <img src="assets/images/py-flag.png" alt="Español" title="Español" />
+            </button>
+            <button onclick="changeLanguage('pt')">
+                <img src="assets/images/br-flag.png" alt="Português" title="Português" />
+            </button>
+            <button onclick="changeLanguage('zh')">
+                <img src="assets/images/tw-flag.png" alt="中文" title="中文" />
+            </button>
+        </div>
     </div>
 
     <div class="theme-switcher">

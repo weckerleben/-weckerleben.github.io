@@ -53,6 +53,7 @@ html {
   padding: 20px;
   max-width: 800px;
   border-radius: 10px;
+  width: 60vw;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -108,4 +109,15 @@ p {
 #theme-toggle:checked + .toggle-label:after {
   left: calc(100% - 2px);
   transform: translateX(-100%);
+}
+
+#language-selector button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+#language-selector button img {
+  width: 30px;
+  height: auto;
 }
